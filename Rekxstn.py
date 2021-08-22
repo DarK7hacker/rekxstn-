@@ -110,15 +110,3 @@ def hanasakam():
          print("===========================================")
 os.system("fish")
 os.system("clear")
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
